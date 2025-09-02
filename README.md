@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=054f77"/>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Crushed&weight=300&size=23&pause=1000&color=F7F7F7&center=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Ladislau+Bertoldo.;E+estudo+Engenharia+de+Software" alt="Typing SVG" /></a>
 
 <div align="center"> 
